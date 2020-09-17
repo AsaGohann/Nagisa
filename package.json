@@ -1,0 +1,14 @@
+{
+  "name": "creator",
+  "version": "1.0.0",
+  "description": "It's a testing projects",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "BaChorLy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
